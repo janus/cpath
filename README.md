@@ -23,3 +23,11 @@ http://www.gowrikumar.com/c/index.php
 https://www.ops-class.org/slides/
 
 http://www.pvv.org/~oma/DeepC_slides_oct2011.pdf
+
+
+#Embedded(Microcontrollers)
+http://www.thebox.myzen.co.uk/Tutorial/Introduction.html
+
+http://www.gammon.com.au/
+
+http://www.diericx.net/post/drive-cga-screen-with-arduino/
